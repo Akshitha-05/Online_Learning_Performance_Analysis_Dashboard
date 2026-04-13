@@ -10,6 +10,7 @@ The dashboard helps in identifying patterns and provides insights to support **d
 <p align="center">
   <img src="Dashboard.jpg" width="800">
 </p>
+
 ---
 
 ## 🎯 Objectives
