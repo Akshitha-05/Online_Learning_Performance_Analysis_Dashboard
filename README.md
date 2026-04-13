@@ -7,9 +7,8 @@ The dashboard helps in identifying patterns and provides insights to support **d
 ![Dashboard]Dashboard.jpg
 ## 📊 Dashboard Preview
 
-<p align="center">
-  <img src="Dashboard.jpg" width="800">
-</p>
+![Dashboard](https://github.com/user-attachments/assets/4f8f76cc-53c5-42b4-81a2-4c846f11b73b)
+
 
 ---
 
